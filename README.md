@@ -16,7 +16,7 @@
 
 This repository is my first experience with **[React.js](https://reactjs.org/)**. I have been enjoying learning more about Web Development, and had a lot of fun completing this challenge.
 
-We were given the task to create an interface to connect with the back-end we had developed previously. In this interface, the user must be able to add and remove repositories. I have utilized **[Axios](https://github.com/axios/axios)** to make the HTTP requests.
+We were given the task to create an interface to connect with the back-end we had developed **[previously](https://github.com/marcosbergami/nodejs-concepts-challenge)**. In this interface, the user must be able to add and remove repositories. I have utilized **[Axios](https://github.com/axios/axios)** to make the HTTP requests.
 
 <img alt="Demo" src="https://user-images.githubusercontent.com/56553101/101552952-61d35d00-3979-11eb-82af-cf57d4c572f1.gif" />
 
